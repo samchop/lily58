@@ -35,15 +35,14 @@ I messed up an entire PCB board, multiple sockets, and fried a Pro Micro before 
 
 | Name | Links | Notes |
 | - | - | - |
-| Soldering Iron| 
-| Steel wool sponge (for cleaning iron tip)| 
-| Damp regular sponge (also for cleaning iron tip)| 
+| Soldering Iron| | *I ended up caving and buying a Hakko setup. Pricey but so nice to use, I recommend if you think you are going to be doing many more DIY builds* |
+| Steel wool sponge | | *For cleaning the iron tip* |
+| Damp regular sponge | | *Also for cleaning iron tip* | 
 | Tweezers| | *The diodes are the most annoying little microshits ever, trust me you don't want to handle them without these. Plus I'm positive you will burn yourself.* |
 | Soldering wire | | *I HIGHLY recommend using leaded wire, the lead-free wire that came with my soldering kit was awful. I thought it was just me being bad it it, but things became much more smooth-sailing after getting some 60/40 leaded soldering wire* |
-| Well-lit work area | | *Seriously, you don't wanna be straining yourself into a headache trying to find the faint lines on the microshits* |
-| Ventilation | | *You do not want to breathe the solder fumes and f--- up your respiratory system over a DIY keyboard. I don't breathe in while I melt the solder and have a window open. You can also use a mask for extra protection.* |
+| Well-lit work area | | *You don't wanna be straining yourself into a headache trying to find the faint lines on the microshits* |
+| Ventilation | | *Do not breathe the solder fumes my friend.* |
 
-I first used the lead-free soldering wire that came with my soldering iron kit, it was awful. I thought it was just me being awful at doing this but this stuff just really sucks and is hard to work with. 
 
 
 ## Phase 2 - LED Strips Setup
